@@ -40,8 +40,8 @@ Time: O(m * n) where m = |X|, n = |Y|
 Space: O(m * n) (needed to print the full cost & direction matrices)
 
 
-PRACTICAL 8:
-# Graph Coloring using Backtracking 
+
+# PRACTICAL 8 : Graph Coloring using Backtracking 
 
 ##  Overview
 This project implements the **Graph Coloring Problem** using the **Backtracking algorithm** in Java.  
